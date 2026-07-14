@@ -251,7 +251,7 @@ LOGIN_HTML = '''
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - ARAFAT PANEL</title>
+    <title>Login - KALTU PANEL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap" rel="stylesheet">
     <style>body { background: #06040a; color: white; font-family: 'Rajdhani', sans-serif; }</style>
@@ -277,7 +277,7 @@ ADMIN_HTML = '''
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin - ARAFAT PANEL</title>
+    <title>Admin - KALTU PANEL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>body { background: #06040a; color: white; }</style>
 </head>
@@ -326,7 +326,7 @@ MAIN_HTML = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>ARAFAT ULTRA TERMINAL</title>
+    <title>KALTU ULTRA TERMINAL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Rajdhani:wght@600&family=Poppins&display=swap" rel="stylesheet">
